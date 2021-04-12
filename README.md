@@ -7,9 +7,9 @@ javascript 2 player game of bomberman
 This was a personal project to practice javascript
 It uses arrays of numbers to generate worlds
 
-array num 0 - wall
-array num 1 - breakable wall
-array num 2 - free path
+* Item 1 array num 0 - wall
+* Item 2 array num 1 - breakable wall
+* Item 3 array num 2 - free path
  
 ### game features 
 The game has 3 worlds on every start random one is chosen.
@@ -21,16 +21,16 @@ You can create a new game world, copy the result code and create another world a
 
 ### CONTROLS
 Player1 :
-move left - left arrow
-move up - up arrow
-move right - right arrow
-move down - down arrow
-bomb - 0 key
+* Item 1 move left - left arrow
+* Item 2 move up - up arrow
+* Item 3 move right - right arrow
+* Item 4 move down - down arrow
+* Item 5 bomb - 0 key
 
 player 2:
-move left - a key
-move up - w key
-move right - d key
-move down - s key
-bomb - b key
+* Item 1 move left - a key
+* Item 2 move up - w key
+* Item 3 move right - d key
+* Item 4 move down - s key
+* Item 5bomb - b key
 
