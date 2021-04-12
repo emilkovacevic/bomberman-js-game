@@ -21,16 +21,16 @@ You can create a new game world, copy the result code and create another world a
 
 ### CONTROLS
 Player1 :
-* Item 1 move left - left arrow
-* Item 2 move up - up arrow
-* Item 3 move right - right arrow
-* Item 4 move down - down arrow
-* Item 5 bomb - 0 key
+*  1 move left - left arrow
+*  2 move up - up arrow
+*  3 move right - right arrow
+*  4 move down - down arrow
+*  5 bomb - 0 key
 
 player 2:
-* Item 1 move left - a key
-* Item 2 move up - w key
-* Item 3 move right - d key
-* Item 4 move down - s key
-* Item 5bomb - b key
+*  1 move left - a key
+*  2 move up - w key
+*  3 move right - d key
+*  4 move down - s key
+*  5bomb - b key
 
