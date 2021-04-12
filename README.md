@@ -32,5 +32,5 @@ player 2:
 *  2 move up - w key
 *  3 move right - d key
 *  4 move down - s key
-*  5bomb - b key
+*  5 bomb - b key
 
